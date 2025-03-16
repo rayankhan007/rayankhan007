@@ -24,6 +24,12 @@
 
 ---
 
+## 🚀 Featured Repos
+
+- 🔥 [Disease predictive System](https://github.com/rayankhan007/Alzheimer-s-Disease-Prediction.git)
+
+---
+
 ## 🚀 Featured Projects
 
 - 🔥 [AI Chatbot](https://github.com/rayankhan007/ai-chatbot) - Intelligent chatbot with NLP and deep learning.
