@@ -28,6 +28,8 @@
 
 - 🔥 [Disease predictive System](https://github.com/rayankhan007/Alzheimer-s-Disease-Prediction.git)
 
+- 🔥 [Diabetes prediction web app](
+
 ---
 
 ## 🚀 Featured Projects
